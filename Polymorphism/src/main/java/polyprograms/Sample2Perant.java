@@ -13,9 +13,9 @@ public class Sample2Perant {
 			this.b = b;
 			this.c = c;
 			
-		}
+		} 
 		
-		
+	
 		public void show()
 		{
 			int result = a*b*c;
